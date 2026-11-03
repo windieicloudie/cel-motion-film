@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#F3E6C8"/>
+  <path d="M174 122H1106M174 598H1106" stroke="#272821" stroke-width="3"/>
+  <path d="M282 190C395 103 865 104 998 216C1100 302 1028 515 880 550C698 594 387 566 275 463C179 374 188 262 282 190Z" fill="#F2BF36"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <text x="640" y="348" text-anchor="middle" font-family="Arial Black, sans-serif" font-size="142" fill="#E34B35" stroke="#272821" stroke-width="12" paint-order="stroke">HAND</text>
+    <text x="640" y="500" text-anchor="middle" font-family="Arial Black, sans-serif" font-size="142" fill="#E34B35" stroke="#272821" stroke-width="12" paint-order="stroke">MADE</text>
+  </g>
+  <g fill="#E34B35" stroke="#272821" stroke-width="5">
+    <path d="M190 328l15 35 38 3-29 25 9 37-33-20-33 20 9-37-29-25 38-3z"/>
+    <path d="M1080 286l11 25 28 3-21 18 7 27-25-15-24 15 7-27-21-18 28-3z"/>
+    <path d="M1060 478l8 18 20 2-15 13 5 19-18-10-17 10 5-19-15-13 20-2z"/>
+  </g>
+  <text x="174" y="103" font-family="monospace" font-size="24" fill="#272821">CEL MOTION FILM</text>
+  <text x="1106" y="632" text-anchor="end" font-family="monospace" font-size="22" fill="#272821">FRAME BY FRAME · LINE BOIL</text>
+</svg>
