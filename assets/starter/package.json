@@ -1,0 +1,1 @@
+{"name":"little-spark-film","private":true,"version":"1.0.0","scripts":{"render":"node render.cjs"},"dependencies":{"playwright":"^1.56.0"}}
