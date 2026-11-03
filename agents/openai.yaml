@@ -1,0 +1,4 @@
+interface:
+  display_name: "手绘动态短片"
+  short_description: "沿用暖纸、抖线和逐帧动效风格，更换主题与文案，生成带配乐的十秒短片"
+  default_prompt: "使用 $cel-motion-film，沿用手绘抖线风格，根据我提供的新主题、标题和文案制作短片。"
