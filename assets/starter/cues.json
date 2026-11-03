@@ -1,0 +1,110 @@
+{
+  "fps": 24,
+  "frames": 240,
+  "duration": 10,
+  "width": 1920,
+  "height": 1080,
+  "beats": [
+    {
+      "frame": 0,
+      "name": "ready",
+      "description": "A match enters an illustrated matchbox composition."
+    },
+    {
+      "frame": 12,
+      "name": "strike",
+      "description": "One-frame smear and a dry strike; sparks ignite."
+    },
+    {
+      "frame": 30,
+      "name": "birth",
+      "description": "A tiny flame spirit springs from the match."
+    },
+    {
+      "frame": 54,
+      "name": "land",
+      "description": "Squash on landing; little ink feet catch the floor."
+    },
+    {
+      "frame": 64,
+      "name": "step1"
+    },
+    {
+      "frame": 74,
+      "name": "step2"
+    },
+    {
+      "frame": 84,
+      "name": "step3"
+    },
+    {
+      "frame": 94,
+      "name": "step4"
+    },
+    {
+      "frame": 104,
+      "name": "step5"
+    },
+    {
+      "frame": 114,
+      "name": "step6"
+    },
+    {
+      "frame": 132,
+      "name": "anticipate",
+      "description": "The spirit winds itself into a tight coil."
+    },
+    {
+      "frame": 140,
+      "name": "launch",
+      "description": "Fast vertical smear into a hand-drawn firework."
+    },
+    {
+      "frame": 156,
+      "name": "hero",
+      "description": "The smiling flame expands into a huge sunburst with smoke, stars and sparks."
+    },
+    {
+      "frame": 176,
+      "name": "reform",
+      "description": "The burst fragments travel into the title strokes."
+    },
+    {
+      "frame": 184,
+      "name": "letter1"
+    },
+    {
+      "frame": 188,
+      "name": "letter2"
+    },
+    {
+      "frame": 192,
+      "name": "letter3"
+    },
+    {
+      "frame": 196,
+      "name": "letter4"
+    },
+    {
+      "frame": 200,
+      "name": "letter5"
+    },
+    {
+      "frame": 204,
+      "name": "letter6"
+    },
+    {
+      "frame": 208,
+      "name": "letter7"
+    },
+    {
+      "frame": 212,
+      "name": "letter8"
+    },
+    {
+      "frame": 216,
+      "name": "resolve",
+      "description": "Final poster locks; line boil changes to holds on threes."
+    }
+  ]
+}
