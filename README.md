@@ -2,7 +2,7 @@
 
 可复用的 Codex Skill：输入主题、标题、品牌文案和故事内容，生成暖纸底、手绘抖线、逐帧角色与烟火特效的 10 秒短片。
 
-![风格参考](assets/reference-poster.jpg)
+![风格参考](assets/reference-poster.svg)
 
 ## 使用
 
