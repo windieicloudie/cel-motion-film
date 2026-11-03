@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+node_modules/
+frames/
+work/
+outputs/
+.DS_Store
+audio-raw.wav
+audio-master.wav
+picture.mp4
