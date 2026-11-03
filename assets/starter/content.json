@@ -1,0 +1,15 @@
+{
+  "title": ["HAND", "MADE"],
+  "brand": ["LITTLE", "SPARK"],
+  "header": "LITTLE SPARK",
+  "subheader": "A HAND-DRAWN FILM",
+  "footerLeft": "STRIKE UP A LITTLE MAGIC.",
+  "footerRight": "FRAME BY FRAME",
+  "opening": ["ONE", "TINY", "SPARK."],
+  "dance": ["GOT", "A LITTLE", "SOUL."],
+  "heroLeft": ["OH,", "YES!"],
+  "heroRight": ["PURE", "MAGIC."],
+  "endNote": ["MADE", "OF", "FEELING."],
+  "tagline": "A LITTLE SPARK. A LOT OF SOUL.",
+  "palette": {"paper":"#F3E6C8", "ink":"#272821", "red":"#E34B35", "yellow":"#F2BF36", "warm":"#E7D6AE"}
+}
